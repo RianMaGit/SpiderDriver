@@ -1,0 +1,1 @@
+Dieses Projekt ist im Rahmen einer Studienarbeit an der DHBW Karlsruhe entstanden. Es handelt sich hiebei um einen Spinnenroboter, welcher sowohl laufen als auch fahren.
